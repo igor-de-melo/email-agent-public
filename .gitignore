@@ -1,0 +1,13 @@
+.env
+*.env
+credentials/
+credentials.json
+token*.json
+profile.local.txt
+logs/
+*.log
+*.jsonl
+venv/
+.venv/
+__pycache__/
+*.pyc
